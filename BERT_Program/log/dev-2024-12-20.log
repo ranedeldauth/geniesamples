@@ -1,0 +1,81 @@
+┌ Info: 2024-12-20 12:49:45 Watching ["/home/administrator/geniesamples/BERT_Program"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 12:49:47 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 12:50:16 Watching ["/home/administrator/geniesamples/BERT_Program"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 12:50:17 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 12:50:19 
+│ Web Server starting at http://0.0.0.0:9104?CHANNEL__=QZGPPRGOQICLQMBOFYZZMCZJKFDCDTDR 
+└ @ Genie.Server /home/administrator/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-12-20 12:50:19 Listening on: 0.0.0.0:9104, thread id: 1
+└ @ HTTP.Servers /home/administrator/.julia/packages/HTTP/WctPa/src/Servers.jl:382
+┌ Info: 2024-12-20 13:14:44 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:14:44 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Warning: 2024-12-20 13:15:40 BoundsError(Matrix{Float64}(undef, 0, 0), (Base.Slice(Base.OneTo(0)), 0))
+└ @ Stipple /home/administrator/.julia/packages/Stipple/Na0eY/src/Stipple.jl:1018
+┌ Info: 2024-12-20 13:19:22 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:19:22 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:20:22 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:20:22 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:21:02 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:21:02 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:22:20 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:22:20 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:22:38 Watching ["/home/administrator/geniesamples/BERT_Program"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 13:22:40 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:23:09 Watching ["/home/administrator/geniesamples/BERT_Program"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 13:23:10 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:23:12 
+│ Web Server starting at http://0.0.0.0:9104?CHANNEL__=QZGPPRGOQICLQMBOFYZZMCZJKFDCDTDR 
+└ @ Genie.Server /home/administrator/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-12-20 13:23:13 Listening on: 0.0.0.0:9104, thread id: 1
+└ @ HTTP.Servers /home/administrator/.julia/packages/HTTP/WctPa/src/Servers.jl:382
+┌ Error: 2024-12-20 13:23:38 Failed to store session data
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-12-20 13:23:38 SystemError("opening file \"/tmp/jl_vCmTP6/\"", 21, nothing)
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-12-20 13:23:38 Resetting session
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-12-20 13:23:40 Failed to store session data
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-12-20 13:23:40 SystemError("opening file \"/tmp/jl_vCmTP6/\"", 21, nothing)
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-12-20 13:23:40 Resetting session
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Info: 2024-12-20 13:29:17 Watching ["/home/administrator/geniesamples/BERT_Program"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 13:29:18 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:29:44 Watching ["/home/administrator/geniesamples/BERT_Program"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-20 13:29:44 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-20 13:29:46 
+│ Web Server starting at http://0.0.0.0:9104?CHANNEL__=QZGPPRGOQICLQMBOFYZZMCZJKFDCDTDR 
+└ @ Genie.Server /home/administrator/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-12-20 13:29:46 Listening on: 0.0.0.0:9104, thread id: 1
+└ @ HTTP.Servers /home/administrator/.julia/packages/HTTP/WctPa/src/Servers.jl:382
+┌ Error: 2024-12-20 13:30:09 Failed to store session data
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-12-20 13:30:09 SystemError("opening file \"/tmp/jl_vCmTP6/\"", 21, nothing)
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-12-20 13:30:09 Resetting session
+└ @ GenieSessionFileSession /home/administrator/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Warning: 2024-12-20 13:31:03 BoundsError(Matrix{Float64}(undef, 0, 0), (Base.Slice(Base.OneTo(0)), 0))
+└ @ Stipple /home/administrator/.julia/packages/Stipple/Na0eY/src/Stipple.jl:1018

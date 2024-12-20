@@ -1,0 +1,7 @@
+[deps]
+CellularPotts = "11b7dee7-cd95-48a5-a457-717aae94d0bd"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+PlotlyBase = "a03496cd-edff-5a9b-9e67-9cda94a718b5"
+
+[Genie]
+instantiated_pwd = "/home/administrator/geniesamples/Potts"

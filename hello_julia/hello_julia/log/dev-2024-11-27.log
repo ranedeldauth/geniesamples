@@ -1,0 +1,81 @@
+┌ Info: 2024-11-27 11:07:13 Watching ["/home/administrator/geniesamples/hello_julia/hello_julia"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:19
+┌ Info: 2024-11-27 11:07:15 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:07:26 Watching ["/home/administrator/geniesamples/hello_julia/hello_julia"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:19
+┌ Info: 2024-11-27 11:07:26 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:07:28 
+│ Web Server starting at http://0.0.0.0:9101?CHANNEL__=HKJHRMCALDPRNORXJRXFZNCFBRCFDNFA 
+└ @ Genie.Server /home/administrator/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-11-27 11:07:28 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers /home/administrator/.julia/packages/HTTP/sUvTn/src/Servers.jl:382
+┌ Info: 2024-11-27 11:07:43 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:07:46 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:11:37 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:11:37 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:11:37 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:11:37 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:12:11 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:12:11 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:12:11 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:12:11 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:05 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:05 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:05 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:05 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:21 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:21 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:21 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:13:21 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:19:49 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:19:49 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:19:49 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:19:49 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:00 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:00 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:00 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:00 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:50 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:50 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:50 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:21:50 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:28:17 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:28:17 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:28:17 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-11-27 11:28:17 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22

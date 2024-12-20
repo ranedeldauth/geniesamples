@@ -1,0 +1,13 @@
+┌ Info: 2024-12-01 20:19:38 Watching ["/home/administrator/geniesamples/Basic_Structure"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-01 20:19:41 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-01 20:19:52 Watching ["/home/administrator/geniesamples/Basic_Structure"]
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:19
+┌ Info: 2024-12-01 20:19:52 Autoreloading
+└ @ GenieAutoReload /home/administrator/.julia/packages/GenieAutoReload/zeTlF/src/GenieAutoReload.jl:22
+┌ Info: 2024-12-01 20:19:54 
+│ Web Server starting at http://0.0.0.0:9101?CHANNEL__=EYXFSHQQNZKYZCRTMSWGJFRRDECFAMAA 
+└ @ Genie.Server /home/administrator/.julia/packages/Genie/TKJWe/src/Server.jl:182
+┌ Info: 2024-12-01 20:19:54 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers /home/administrator/.julia/packages/HTTP/sUvTn/src/Servers.jl:382

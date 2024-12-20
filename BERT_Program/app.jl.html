@@ -1,0 +1,27 @@
+<header>
+    <h4>BERT Algorithm<br>​​​​​​​<br></h4>
+</header>
+<div class="row">
+    <div class="col-12 col-sm-6 flex">
+        <div class="st-module">
+            <div class="st-module-title">
+                <p>Info:<br></p>
+            </div>
+            <div class="st-field-label">
+                <p>https://huggingface.co/docs/transformers/model_doc/bert</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-sm-6 flex">
+        <div class="st-module">
+            <div class="st-module-title">Controls</div>
+            <q-btn id="i1x6y" color="primary" icon="android" label="Calculate" v-on:click="shift = true"></q-btn>
+            <q-input id="ijet8" v-model="input_text" :autogrow="true" label="Input:"></q-input>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12 st-module">
+        <plotly id="ic7gv" config="e30=" layout="eyJ0aXRsZSI6IlJlc3VsdHMifQ==" :data="result_data"></plotly>
+    </div>
+</div>
